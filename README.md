@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=tungthien408&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=tungthien408&theme=dark&hide_border=false&include_all_commits=false&count_private=true\&rank_icon=percentile)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tungthien408&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tungthien408&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
@@ -10,5 +10,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tungthien408&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-![Repos I contributed to](https://github-contrib-stats.vercel.app/tungthien408/contributed.svg)
